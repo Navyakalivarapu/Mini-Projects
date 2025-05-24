@@ -1,9 +1,9 @@
 "use strict";
 const title = document.getElementById("title");
-title.textContent= "I Have Done Few Mini Projects Using HTML,CSS, JAVASCRIPT";
+title.textContent= "I have built a few mini projects using HTML,CSS, JAVASCRIPT";
 document.title = "All in one application";
 const titles = [
-  "Let's See those Mini Projects",
+  "Let's see the mini projects",
 
 ];
 
