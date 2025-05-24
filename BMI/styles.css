@@ -11,7 +11,10 @@
   .title {
     font-size: 50px;
     text-transform: uppercase;
-    margin-left: 100px;
+    display:flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
     color: white;
     letter-spacing: 5px;
   }
@@ -39,6 +42,10 @@
   }
   
   .header-container {
-    display: grid;
+    display: flex;
     grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+  
   }
