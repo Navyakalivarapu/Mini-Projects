@@ -33,4 +33,4 @@ resetBtn.addEventListener("mouseleave", function () {
   counter = 0;
   resultElement.textContent = counter;
 });
-console.log("migata panulu chestunnam");
+
