@@ -24,14 +24,17 @@ Here are five mini projects I built after understanding and analyzing code from 
   Allows users to add available products to their cart and sort products based on price.
 
 🛠️ Tech Stack:
-HTML
 
-CSS
+ HTML
 
-JavaScript
+ CSS
+
+ JavaScript
 
 🔗 Live Website:
+
   click here to visit the live site:
+  
   https://navyakalivarapu.github.io/Mini-Projects/
 
 
